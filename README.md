@@ -21,7 +21,7 @@
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square)
 
 ## 📊 Stats
-[![Metrics](https://metrics.lecoq.io/lendradxx?template=classic&base.header=0&base.metadata=0&achievements=1&languages=1&lines=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0)](https://github.com/lendradxx)
+[![Metrics](https://metrics.lecoq.io/lendradxx?template=classic&base.header=0&base.metadata=1&achievements=1&languages=1&lines=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0)](https://github.com/lendradxx)
 
 
 <!-- - 🔭 I’m currently working on myself
