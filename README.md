@@ -1,7 +1,10 @@
 # Hello Worlds, I'm Lendra 👋
 
-I'm just ordinary person who likes computers.
-even though it stresses me out
+- 🔭 I'm currently working on MySelf
+- 🌱 I'm currently learning HJC(HTML,JS,CSS)
+- 🤔 I’m looking for help with design
+- 💬 Ask me about ...
+- 😄 Pronouns: He
 
 ## 🔎 Find me on:
 [![Instagram](https://img.shields.io/badge/Instagram-@lendradxx-%23E4405F.svg?style=social&logo=Instagram)](https://instagram.com/lendradxx)
