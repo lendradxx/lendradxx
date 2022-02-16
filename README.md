@@ -2,9 +2,9 @@
 
 - 😄 Pronouns: He
 - 🔭 I'm currently working on MySelf
-- 🌱 I'm currently learning HJC(HTML,JS,CSS)
 - 🤔 I’m looking for help with design
-- 💬 Ask me about ...
+- 🎯 Life goals: be a successful person
+- 🌱 I'm currently learning HJC(HTML,JS,CSS)
 
 ## 🔎 Find me on:
 [![Instagram](https://img.shields.io/badge/Instagram-@lendradxx-%23E4405F.svg?style=social&logo=Instagram)](https://instagram.com/lendradxx)
