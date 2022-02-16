@@ -21,6 +21,7 @@
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square)
 
 ## 📊 Stats
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lendradxx&theme=github#gh-light-mode-only)
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lendradxx&theme=github_dark#gh-dark-mode-only)
 
 <!-- - 🔭 I’m currently working on myself
