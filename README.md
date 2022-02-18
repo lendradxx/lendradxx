@@ -1,3 +1,5 @@
+![Background](https://github.com/lendradxx/lendradxx/blob/master/images/cover.jpg?raw=true)
+
 # Hello Worlds, I'm Lendra 👋
 
 - 😄 Pronouns: He
