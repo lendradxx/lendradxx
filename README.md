@@ -1,4 +1,4 @@
-<a href="https://github.com/lendradxx"><img src="https://wallpapercave.com/wp/wp9915612.jpg" height="60%"></a>
+<a href="https://github.com/lendradxx"><img src="https://wallpapercave.com/wp/wp9915612.jpg" height="40%"></a>
 
 # Hello Worlds, I'm Lendra 👋
 
