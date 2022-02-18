@@ -1,4 +1,4 @@
-<a href="https://github.com/lendradxx"><img src="https://github.com/lendradxx/lendradxx/blob/master/images/cover.jpg?raw=true"></a>
+[![Cover](https://github.com/lendradxx/lendradxx/blob/master/images/cover.jpg?raw=true)](https://github.com/lendradxx)
 
 # Hello Worlds, I'm Lendra 👋
 
