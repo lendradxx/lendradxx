@@ -1,5 +1,4 @@
-<!-- [![Cover](https://github.com/lendradxx/lendradxx/blob/master/images/cover.jpg?raw=true)](https://github.com/lendradxx) -->
-![Bacot](https://giphy.com/embed/b29IZK1dP4aWs)
+[![Cover](https://github.com/lendradxx/lendradxx/blob/master/images/cover.jpg?raw=true)](https://github.com/lendradxx)
 
 # Hello Worlds, I'm Lendra 👋
 
