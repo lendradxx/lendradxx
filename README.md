@@ -25,7 +25,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-
+![NodeJS](https://img.shields.io/badge/NodeJS-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)
 
 ## 🏆 Achievements
 [![Trophy](https://github-profile-trophy.vercel.app/?username=lendradxx&theme=radical)](https://github.com/lendradxx)
