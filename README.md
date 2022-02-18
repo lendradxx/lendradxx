@@ -1,4 +1,4 @@
-[![Cover](https://github.com/lendradxx/lendradxx/blob/master/images/cover.svg?raw=true)](https://github.com/lendradx)
+[![Cover](https://github.com/lendradxx/lendradxx/blob/master/images/cover.svg?raw=true)](https://github.com/lendradxx)
 
 # Hello Worlds, I'm Lendra 👋
 
