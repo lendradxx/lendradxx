@@ -30,7 +30,10 @@ clipboard Languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## 📊 Activity & Stats
-[![Stats](https://github-readme-stats.vercel.app/api?username=lendradxx&show_icons=true&theme=radical)](https://github.com/lendradxx)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lendradxx&theme=radical)](https://github.com/lendradxx)
+[![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lendradxx&theme=monokai)](https://github.com/lendradxx)
+
 [![Trophy](https://github-profile-trophy.vercel.app/?username=lendradxx&theme=radical)](https://github.com/lendradxx)
+
 <!-- [![Metrics](https://metrics.lecoq.io/lendradxx?template=classic&base.header=0&base.metadata=1&achievements=1&languages=1&lines=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0)](https://github.com/lendradxx) -->
+<!-- [![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lendradxx&theme=monokai)](https://github.com/lendradxx)
+[![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lendradxx&theme=monokai)](https://github.com/lendradxx) -->
