@@ -1,4 +1,4 @@
-![Background](https://github.com/lendradxx/lendradxx/blob/master/images/cover.jpg?raw=true)
+<a href="https://github.com/lendradxx"><img src="https://wallpapercave.com/wp/wp9915612.jpg" height="80px"></a>
 
 # Hello Worlds, I'm Lendra 👋
 
