@@ -20,5 +20,18 @@
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat-square&logo=inkscape&logoColor=080A13)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square)
 
+## ✍️ Skills
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat-square&logo=yarn&logoColor=white)
+clipboard Languages
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
 ## 📊 Activity & Stats
-[![Metrics](https://metrics.lecoq.io/lendradxx?template=classic&base.header=0&base.metadata=1&achievements=1&languages=1&lines=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0)](https://github.com/lendradxx)
+[![Stats](https://github-readme-stats.vercel.app/api?username=lendradxx&show_icons=true&theme=radical)](https://github.com/lendradxx)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lendradxx&layout=compact&theme=radical)](https://github.com/lendradxx)
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=lendradxx&theme=radical)](https://github.com/lendradxx)
+<!-- [![Metrics](https://metrics.lecoq.io/lendradxx?template=classic&base.header=0&base.metadata=1&achievements=1&languages=1&lines=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0)](https://github.com/lendradxx) -->
