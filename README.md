@@ -1,5 +1,5 @@
 <!-- [![Cover](https://github.com/lendradxx/lendradxx/blob/master/images/cover.jpg?raw=true)](https://github.com/lendradxx) -->
-<iframe src="https://giphy.com/embed/b29IZK1dP4aWs" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scenery-oreimo-anime-b29IZK1dP4aWs">via GIPHY</a></p>
+![Bacot](https://giphy.com/embed/b29IZK1dP4aWs)
 
 # Hello Worlds, I'm Lendra 👋
 
