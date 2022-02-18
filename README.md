@@ -27,7 +27,3 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/NodeJS-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)
-
-## 🏆 Achievements
-[![Trophy](https://github-profile-trophy.vercel.app/?username=lendradxx&theme=radical)](https://github.com/lendradxx)
-<!-- [![Metrics](https://metrics.lecoq.io/lendradxx?template=classic&base.header=0&base.metadata=1&achievements=1&languages=1&lines=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0)](https://github.com/lendradxx) -->
