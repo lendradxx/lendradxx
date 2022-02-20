@@ -40,5 +40,5 @@
 | ![Siegrin][siegrin] | ![Itsmedell][itsmedell] |
 |       Siegrin       |         Dellas          |
 
-[siegrin]: https://github.com/siegrin.png
-[itsmedell]: https://github.com/itsmedell.png
+[siegrin]: https://github.com/siegrin.png?size=64
+[itsmedell]: https://github.com/itsmedell.png?size=64
