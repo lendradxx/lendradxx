@@ -36,8 +36,8 @@
 ## 👥 Friends
 
 | <img src="https://github.com/siegrin.png" height="80px"> | <img src="https://github.com/itsmedell.png" height="80px"> |
-| :-------------------------------------------------------: | :---------------------------------------------------------: |
-|           [Siegrin](https://github.com/siegrin)           |           [Dellas](https://github.com/itsmedell)            |
+| :------------------------------------------------------: | :--------------------------------------------------------: |
+|          [Siegrin](https://github.com/siegrin)           |           [Dellas](https://github.com/itsmedell)           |
 
 [siegrin]: https://github.com/siegrin.png
 [itsmedell]: https://github.com/itsmedell.png?size=64
