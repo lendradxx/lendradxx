@@ -35,10 +35,9 @@
 
 ## 👥 Friends
 
-|    Photo Profile    |          Name           |
-| :-----------------: | :---------------------: |
-| ![Siegrin][siegrin] | ![Itsmedell][itsmedell] |
-|       Siegrin       |         Dellas          |
+| <img src="https://github.com/siegrin.png" height="180px"> | <img src="https://github.com/itsmedell.png" height="180px"> |
+| :-------------------------------------------------------: | :---------------------------------------------------------: |
+|           [Siegrin](https://github.com/siegrin)           |           [Dellas](https://github.com/itsmedell)            |
 
-[siegrin]: https://github.com/siegrin.png?size=64
+[siegrin]: https://github.com/siegrin.png
 [itsmedell]: https://github.com/itsmedell.png?size=64
