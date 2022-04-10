@@ -17,7 +17,7 @@
 
 ## ✍️ Skills
 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![C](https://github.com/lendradxx/lendradxx/blob/master/icons/c.svg?raw=true)
 
 ## 👥 Friends
 
