@@ -16,7 +16,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-@lendradxx-%231DA1F2.svg?style=social&logo=Twitter)](https://twitter.com/lendradxx)
 
 ## ✍️ Skills
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 
 ## 👥 Friends
 
