@@ -16,8 +16,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-@lendradxx-%231DA1F2.svg?style=social&logo=Twitter)](https://twitter.com/lendradxx)
 
 ## ✍️ Skills
-
-![C](https://github.com/lendradxx/lendradxx/blob/master/icons/c.svg?raw=true)
+![C](https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c.svg?raw=true)
 
 ## 👥 Friends
 
