@@ -17,14 +17,13 @@
 
 ## ✍️ Skills
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 ## 👥 Friends
 
 | <img src="https://github.com/siegrin.png" height="80px"> | <img src="https://github.com/itsmedell.png" height="80px"> |
 | :------------------------------------------------------: | :--------------------------------------------------------: |
 |          [Siegrin](https://github.com/siegrin)           |           [Dellas](https://github.com/itsmedell)           |
-
 
 <!-- Un used line -->
 <!-- ## 🛠️ Tools
