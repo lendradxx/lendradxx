@@ -6,7 +6,7 @@
 - 🔭 I'm currently working on MySelf
 - 🤔 I’m looking for help with popularity
 - 🎯 Life goals: be a successful person
-- 🌱 I'm currently learning C and GTK
+- 🌱 I'm currently learning C, GTK, and CMake
 
 ## 🔎 Find me on
 
