@@ -10,8 +10,6 @@
 - 🎯 Life goals: be a successful person
 - 🌱 I'm currently learning C, GTK, and CMake
 
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
-
 ## Find me on
 
 [![Instagram](https://img.shields.io/badge/Instagram-@lendradxx-%23E4405F.svg?style=social&logo=Instagram)](https://instagram.com/lendradxx)
