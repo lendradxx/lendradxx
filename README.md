@@ -23,7 +23,7 @@
 ![Arch](https://img.shields.io/badge/Arch-1793D1?logo=arch-linux&logoColor=fff&style=flat)
 
 ## Qoutes & Jokes
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&layout=default)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&layout=zues)
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## Friends
