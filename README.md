@@ -1,7 +1,4 @@
-<!-- [![Cover](https://github.com/lendradxx/lendradxx/blob/master/images/cover.jpg?raw=true)](https://github.com/lendradxx) -->
-<p align="center">
-    <img align="center" src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&layout=churchill&quoteCategory=programming" alt="Random Programming Quotes">
-</p>
+[![Cover](https://github.com/lendradxx/lendradxx/blob/master/images/cover.jpg?raw=true)](https://github.com/lendradxx)
 
 # Hello Worlds, I'm Lendra 👋
 
@@ -10,6 +7,7 @@
 - 🤔 I’m looking for help with popularity
 - 🎯 Life goals: be a successful person
 - 🌱 I'm currently learning C, GTK, and CMake
+![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## Find me on
 
