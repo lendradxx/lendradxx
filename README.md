@@ -27,7 +27,7 @@
 
 ## Other
 ![Dev Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
-<img src='https://random-memer.herokuapp.com/' height="512" title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+<img src='https://random-memer.herokuapp.com/' height="256" title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 <!-- Un used line -->
 <!-- ## 🛠️ Tools
