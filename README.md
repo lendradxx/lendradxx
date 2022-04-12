@@ -1,5 +1,4 @@
-<!-- [![Cover](https://github.com/lendradxx/lendradxx/blob/master/images/cover.jpg?raw=true)](https://github.com/lendradxx) -->
-![Dev Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![Cover](https://github.com/lendradxx/lendradxx/blob/master/images/cover.jpg?raw=true)](https://github.com/lendradxx)
 
 # Hello Worlds, I'm Lendra 👋
 
@@ -26,10 +25,4 @@
 | :------------------------------------------------------: | :--------------------------------------------------------: |
 |          [Siegrin](https://github.com/siegrin)           |           [Dellas](https://github.com/itsmedell)           |
 
-<!-- Un used line -->
-<!-- ## 🛠️ Tools
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
-![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=flat&logo=GoogleChrome&logoColor=white)
-![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat&logo=Firefox-Browser&logoColor=white)
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat) -->
+![Dev Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
