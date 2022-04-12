@@ -23,7 +23,11 @@
 ![Arch](https://img.shields.io/badge/Arch-1793D1?logo=arch-linux&logoColor=fff&style=flat)
 
 ## Qoutes
+<p align="center">
+
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&layout=zues)
+
+</p>
 
 ## Friends
 
