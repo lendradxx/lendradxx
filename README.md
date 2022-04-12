@@ -1,5 +1,5 @@
 <!-- [![Cover](https://github.com/lendradxx/lendradxx/blob/master/images/cover.jpg?raw=true)](https://github.com/lendradxx) -->
-![Dev Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
+![Dev Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 # Hello Worlds, I'm Lendra 👋
 
