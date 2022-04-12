@@ -11,6 +11,7 @@
 - 🌱 I'm currently learning C, GTK, and CMake
 
 ![Jokes](https://jokes-card.vercel.app/api/generate/)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## Find me on
 
