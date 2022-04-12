@@ -1,4 +1,5 @@
-[![Cover](https://github.com/lendradxx/lendradxx/blob/master/images/cover.jpg?raw=true)](https://github.com/lendradxx)
+<!-- [![Cover](https://github.com/lendradxx/lendradxx/blob/master/images/cover.jpg?raw=true)](https://github.com/lendradxx) -->
+<img align="center" src="https://readme-typing-svg.herokuapp.com?lines=Hello+Everyone+%F0%9F%91%8B">
 
 # Hello Worlds, I'm Lendra 👋
 
