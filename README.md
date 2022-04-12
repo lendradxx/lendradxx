@@ -24,9 +24,7 @@
 
 ## Qoutes
 <p align="center">
-
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&layout=zues)
-
+<img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&layout=zues" alt="Qoutes">
 </p>
 
 ## Friends
