@@ -10,7 +10,7 @@
 - 🎯 Life goals: be a successful person
 - 🌱 I'm currently learning C, GTK, and CMake
 
-![Jokes](https://jokes-card.vercel.app/api/generate)
+![Jokes](https://jokes-card.vercel.app/api/generate/)
 
 ## Find me on
 
