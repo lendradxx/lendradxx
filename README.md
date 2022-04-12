@@ -25,4 +25,4 @@
 | :------------------------------------------------------: | :--------------------------------------------------------: |
 |          [Siegrin](https://github.com/siegrin)           |           [Dellas](https://github.com/itsmedell)           |
 
-![Dev Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Dev Quotes](https://github-readme-quotes.herokuapp.com/quote?theme=dark&layout=churchill)
