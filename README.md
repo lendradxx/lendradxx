@@ -26,9 +26,11 @@
 |          [Siegrin](https://github.com/siegrin)           |           [Dellas](https://github.com/itsmedell)           |
 
 ## Other
+<p align="center">
+
 ![Dev Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 <img src='https://random-memer.herokuapp.com/' height="300" title="Meme" alt="Please refresh the page if the meme doesn't show up.">
-
+</p>
 <!-- Un used line -->
 <!-- ## 🛠️ Tools
 
