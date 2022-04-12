@@ -1,5 +1,4 @@
-<!-- [![Cover](https://github.com/lendradxx/lendradxx/blob/master/images/cover.jpg?raw=true)](https://github.com/lendradxx) -->
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?lines=Hello+Everyone+%F0%9F%91%8B"></p>
+[![Cover](https://github.com/lendradxx/lendradxx/blob/master/images/cover.jpg?raw=true)](https://github.com/lendradxx)
 
 # Hello Worlds, I'm Lendra 👋
 
@@ -25,6 +24,11 @@
 | <img src="https://github.com/siegrin.png" height="80px"> | <img src="https://github.com/itsmedell.png" height="80px"> |
 | :------------------------------------------------------: | :--------------------------------------------------------: |
 |          [Siegrin](https://github.com/siegrin)           |           [Dellas](https://github.com/itsmedell)           |
+
+## Other
+![Dev Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
+
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 <!-- Un used line -->
 <!-- ## 🛠️ Tools
