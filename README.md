@@ -10,7 +10,7 @@
 - 🎯 Life goals: be a successful person
 - 🌱 I'm currently learning C, GTK, and CMake
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&layout=zeus&font=defaultquoteCategory=programming)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&layout=zues&font=defaultquoteCategory=programming)
 
 ## Find me on
 
