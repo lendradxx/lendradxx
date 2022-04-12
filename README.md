@@ -15,7 +15,7 @@
 [![Reddit](https://img.shields.io/badge/Reddit-@lendradxx-%23FF4500.svg?style=social&logo=Reddit)](https://reddit.com/user/lendradxx)
 [![Twitter](https://img.shields.io/badge/Twitter-@lendradxx-%231DA1F2.svg?style=social&logo=Twitter)](https://twitter.com/lendradxx)
 
-## 💻 Technologies & 🛠️ Tools
+## 🖥️ Technologies and 🛠️ Tools
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch-1793D1?logo=arch-linux&logoColor=fff&style=flat)
 
