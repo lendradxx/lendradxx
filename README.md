@@ -8,7 +8,7 @@
 - 🎯 Life goals: be a successful person
 - 🌱 I'm currently learning C, GTK, and CMake
 
-![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ## Find me on
 
