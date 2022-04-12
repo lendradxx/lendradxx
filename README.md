@@ -24,8 +24,8 @@
 | :------------------------------------------------------: | :--------------------------------------------------------: |
 |          [Siegrin](https://github.com/siegrin)           |           [Dellas](https://github.com/itsmedell)           |
 
-![Termux Logo](https://user-images.githubusercontent.com/72879799/153904003-d7dee710-6552-4d23-a803-7a9a0ba67d92.png#gh-dark-mode-only)
-![Termux Logo](https://user-images.githubusercontent.com/72879799/153904095-9d78a019-8495-4035-8174-e3da8e4dd66b.png#gh-light-mode-only)
+![Quotes Dark Theme](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark#gh-dark-mode-only)
+![Quotes Light Theme](https://quotes-github-readme.vercel.app/api?type=vertical&theme=light#gh-light-mode-only)
 
 <!-- Un used line -->
 <!-- ## 🛠️ Tools
