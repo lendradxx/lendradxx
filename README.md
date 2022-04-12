@@ -26,6 +26,4 @@
 | :------------------------------------------------------: | :--------------------------------------------------------: |
 |          [Siegrin](https://github.com/siegrin)           |           [Dellas](https://github.com/itsmedell)           |
 
-<p align="center">
-<img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&layout=churchill&quoteCategory=programming" alt="Random Programming Quotes">
-</p>
+<img align="center" src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&layout=churchill&quoteCategory=programming" alt="Random Programming Quotes">
