@@ -16,6 +16,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-@lendradxx-%231DA1F2.svg?style=social&logo=Twitter)](https://twitter.com/lendradxx)
 
 ## Technologies & Tools
+
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch-1793D1?logo=arch-linux&logoColor=fff&style=flat)
 
@@ -26,5 +27,5 @@
 |          [Siegrin](https://github.com/siegrin)           |           [Dellas](https://github.com/itsmedell)           |
 
 <p align="center">
-<img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&layout=churchill" alt="Quotes">
+<img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&layout=churchill&quoteCategory=programming" alt="Random Programming Quotes">
 </p>
