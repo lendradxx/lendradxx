@@ -1,6 +1,8 @@
 [![Cover](https://github.com/lendradxx/lendradxx/blob/master/images/cover.jpg?raw=true)](https://github.com/lendradxx)
 
 # Hello Worlds, I'm Lendra 👋
+[![Followers](https://img.shields.io/github/followers/lendradxx?label=Followers&logo=github)](https://github.com/lendradxx)
+[![Stars](https://img.shields.io/github/stars/lendradxx?label=Stars&logo=Github)](https://github.com/lendradxx)
 
 - 😄 Pronouns: He
 - 🔭 I'm currently working on MySelf
@@ -8,7 +10,7 @@
 - 🎯 Life goals: be a successful person
 - 🌱 I'm currently learning C, GTK, and CMake
 
-![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=default&layout=default&font=default)
 
 ## Find me on
 
