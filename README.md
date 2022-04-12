@@ -24,9 +24,6 @@
 | :------------------------------------------------------: | :--------------------------------------------------------: |
 |          [Siegrin](https://github.com/siegrin)           |           [Dellas](https://github.com/itsmedell)           |
 
-![Quotes Dark Theme](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark#gh-dark-mode-only)
-![Quotes Light Theme](https://quotes-github-readme.vercel.app/api?type=vertical&theme=light#gh-light-mode-only)
-
 <!-- Un used line -->
 <!-- ## 🛠️ Tools
 
