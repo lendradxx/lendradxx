@@ -1,4 +1,7 @@
-[![Cover](https://github.com/lendradxx/lendradxx/blob/master/images/cover.jpg?raw=true)](https://github.com/lendradxx)
+<!-- [![Cover](https://github.com/lendradxx/lendradxx/blob/master/images/cover.jpg?raw=true)](https://github.com/lendradxx) -->
+<p align="center">
+    <img align="center" src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&layout=churchill&quoteCategory=programming" alt="Random Programming Quotes">
+</p>
 
 # Hello Worlds, I'm Lendra 👋
 
@@ -25,5 +28,3 @@
 | <img src="https://github.com/siegrin.png" height="80px"> | <img src="https://github.com/itsmedell.png" height="80px"> |
 | :------------------------------------------------------: | :--------------------------------------------------------: |
 |          [Siegrin](https://github.com/siegrin)           |           [Dellas](https://github.com/itsmedell)           |
-
-<img align="center" src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&layout=churchill&quoteCategory=programming" alt="Random Programming Quotes">
