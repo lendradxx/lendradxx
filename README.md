@@ -15,7 +15,7 @@
 [![Reddit](https://img.shields.io/badge/Reddit-@lendradxx-%23FF4500.svg?style=social&logo=Reddit)](https://reddit.com/user/lendradxx)
 [![Twitter](https://img.shields.io/badge/Twitter-@lendradxx-%231DA1F2.svg?style=social&logo=Twitter)](https://twitter.com/lendradxx)
 
-## ✍️ Skills
+## 💻 Technologies & 🛠️ Tools
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 
 ## 👥 Friends
@@ -23,6 +23,9 @@
 | <img src="https://github.com/siegrin.png" height="80px"> | <img src="https://github.com/itsmedell.png" height="80px"> |
 | :------------------------------------------------------: | :--------------------------------------------------------: |
 |          [Siegrin](https://github.com/siegrin)           |           [Dellas](https://github.com/itsmedell)           |
+
+![Termux Logo](https://user-images.githubusercontent.com/72879799/153904003-d7dee710-6552-4d23-a803-7a9a0ba67d92.png#gh-dark-mode-only)
+![Termux Logo](https://user-images.githubusercontent.com/72879799/153904095-9d78a019-8495-4035-8174-e3da8e4dd66b.png#gh-light-mode-only)
 
 <!-- Un used line -->
 <!-- ## 🛠️ Tools
