@@ -25,4 +25,8 @@
 | :------------------------------------------------------: | :--------------------------------------------------------: |
 |          [Siegrin](https://github.com/siegrin)           |           [Dellas](https://github.com/itsmedell)           |
 
+<p align="center">
+
 ![Dev Quotes](https://github-readme-quotes.herokuapp.com/quote?theme=dark&layout=churchill)
+
+</p>
