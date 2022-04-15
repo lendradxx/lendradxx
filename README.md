@@ -1,5 +1,7 @@
 [![Cover](https://github.com/lendradxx/lendradxx/blob/master/images/cover.jpg?raw=true)](https://github.com/lendradxx)
 
+![Jokes](https://readme-jokes.vercel.app/api?theme=default)
+
 # Hello Worlds, I'm Lendra 👋
 [![Instagram](https://img.shields.io/badge/Instagram-@lendradxx-%23E4405F.svg?style=social&logo=Instagram)](https://instagram.com/lendradxx)
 [![YouTube](https://img.shields.io/badge/Youtube-Lendra-%23FF0000.svg?style=social&logo=YouTube)](https://www.youtube.com/channel/UC1yMvkX8_9-yymE482wHNUg)
