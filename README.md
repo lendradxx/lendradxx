@@ -1,8 +1,9 @@
 [![Cover](https://github.com/lendradxx/lendradxx/blob/master/images/cover.jpg?raw=true)](https://github.com/lendradxx)
 
-![Jokes](https://readme-jokes.vercel.app/api?theme=default)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
 # Hello Worlds, I'm Lendra 👋
+
 [![Instagram](https://img.shields.io/badge/Instagram-@lendradxx-%23E4405F.svg?style=social&logo=Instagram)](https://instagram.com/lendradxx)
 [![YouTube](https://img.shields.io/badge/Youtube-Lendra-%23FF0000.svg?style=social&logo=YouTube)](https://www.youtube.com/channel/UC1yMvkX8_9-yymE482wHNUg)
 [![Reddit](https://img.shields.io/badge/Reddit-@lendradxx-%23FF4500.svg?style=social&logo=Reddit)](https://reddit.com/user/lendradxx)
@@ -20,6 +21,7 @@
 ![Arch](https://img.shields.io/badge/Arch-1793D1?logo=arch-linux&logoColor=fff&style=flat)
 
 ## Quotes
+
 ![Quotes](https://github-readme-quotes.herokuapp.com/quote?theme=dark&layout=zues)
 
 ## Friends
@@ -27,7 +29,6 @@
 | <img src="https://github.com/siegrin.png" height="80px"> | <img src="https://github.com/itsmedell.png" height="80px"> |
 | :------------------------------------------------------: | :--------------------------------------------------------: |
 |          [Siegrin](https://github.com/siegrin)           |           [Dellas](https://github.com/itsmedell)           |
-
 
 <!-- Un used lines -->
 <!-- [![Followers](https://img.shields.io/github/followers/lendradxx?label=Followers&logo=github)](https://github.com/lendradxx)
