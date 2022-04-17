@@ -3,7 +3,7 @@
 # Hello Worlds, I'm Lendra 👋
 
 [![Instagram](https://img.shields.io/badge/Instagram-@lendradxx-%23E4405F.svg?style=social&logo=Instagram)](https://instagram.com/lendradxx)
-[![YouTube](https://img.shields.io/badge/Youtube-Lendra-%23FF0000.svg?style=social&logo=YouTube)](https://www.youtube.com/channel/UC1yMvkX8_9-yymE482wHNUg)
+[![YouTube](https://img.shields.io/badge/Youtube-Lendra-%23FF0000.svg?style=social&logo=YouTube)](https://www.youtube.com/channel/UCoCGoJDosvcKS-lsW75FPRQ)
 [![Reddit](https://img.shields.io/badge/Reddit-@lendradxx-%23FF4500.svg?style=social&logo=Reddit)](https://reddit.com/user/lendradxx)
 [![Twitter](https://img.shields.io/badge/Twitter-@lendradxx-%231DA1F2.svg?style=social&logo=Twitter)](https://twitter.com/lendradxx)
 
