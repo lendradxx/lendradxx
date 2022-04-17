@@ -11,7 +11,7 @@
 - 🔭 I'm currently working on MySelf
 - 🤔 I’m looking for help with popularity
 - 🎯 Life goals: be a successful person
-- 🌱 I'm currently learning C, GTK, and CMake
+- 🌱 I'm currently learning C, SDL 2, and CMake
 
 ## Technologies & Tools
 
