@@ -14,6 +14,10 @@
 - 🌱 I'm currently learning C, GTK, and CMake
 
 <!--START_SECTION:tables-->
+| Quotes | Jokes |
+| :-----: | :-----: |
+| Loss is nothing else but change, and change is Nature's delight. | How many programmers does it take to screw in a light bulb?|
+| Marcus Aurelius | None. It's a hardware problem.|
 <!--END_SECTION:tables-->
 
 ## Technologies & Tools
