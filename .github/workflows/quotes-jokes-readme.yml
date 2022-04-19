@@ -6,7 +6,7 @@ on:
     
   workflow_dispatch:
 
-jobs;
+jobs:
   update-readme:
     name: Updating readme with quotes and jokes table
     runs-on: ubuntu-latest
