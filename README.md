@@ -16,8 +16,8 @@
 <!--START_SECTION:tables-->
 | Quotes | Jokes |
 | :-----: | :-----: |
-| Loss is nothing else but change, and change is Nature's delight. | How many programmers does it take to screw in a light bulb?|
-| Marcus Aurelius | None. It's a hardware problem.|
+| Constant kindness can accomplish much. As the sun makes ice melt, kindness causes misunderstanding, mistrust, and hostility to evaporate. | Why are Assembly programmers always soaking wet?|
+| Albert Schweitzer | They work below C-level.|
 <!--END_SECTION:tables-->
 
 ## Technologies & Tools
