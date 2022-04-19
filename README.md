@@ -14,10 +14,10 @@
 - 🌱 I'm currently learning C, GTK, and CMake
 
 <!--START_SECTION:tables-->
-| Quotes | Jokes | Memes | 
+| Quotes | Jokes |
 | :-----: | :-----: |
-| Work while you have the light. You are responsible for the talent that has been entrusted to you. | Hey baby I wish your name was asynchronous...|
-| Henri-Frédéric Amiel | ... so you'd give me a callback.|
+| Anybody can make history. Only a great man can write it. | How do you generate a random string?|
+| Oscar Wilde | Put a Windows user in front of Vim and tell them to exit.|
 <!--END_SECTION:tables-->
 
 ## Technologies & Tools
