@@ -16,8 +16,8 @@
 <!--START_SECTION:tables-->
 | Quotes | Jokes | Memes | 
 | :-----: | :-----: | :-----: |
-| Wherever a man may happen to turn, whatever a man may undertake, he will always end up by returning to the path which nature has marked out for him. | Why was the JavaScript developer sad?| Something tells me this may lead to users tensing up harder |
-| Johann Wolfgang von Goethe | Because they didn't Node how to Express themself!| <img src="https://i.redd.it/xqgprhv3v9u81.jpg"/> |
+| Follow effective action with quiet reflection. From the quiet reflection will come even more effective action. | Hey, wanna hear a joke?| <img src="https://i.redd.it/o81upuulkfu81.jpg"/> |
+| Peter Drucker | Parsing HTML with regex.| The start of the harrowing, occasionally rewarding, never-ending journey |
 <!--END_SECTION:tables-->
 
 ## Technologies & Tools
