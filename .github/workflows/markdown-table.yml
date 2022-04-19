@@ -1,4 +1,4 @@
-name: "quotes-jokes-readme"
+name: "Markdown Table"
 
 on:
   schedule:
@@ -8,9 +8,9 @@ on:
 
 jobs:
   update-readme:
-    name: Updating readme with quotes and jokes table
+    name: Updating readme with markdown table (Jokes, Memes, Quotes)
     runs-on: ubuntu-latest
     steps:
-      - uses: lendradxx/quotes-and-jokes-readme@master
+      - uses: lendradxx/markdown-tables@master
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
