@@ -14,12 +14,10 @@
 - 🌱 I'm currently learning C, GTK, and CMake
 
 <!--START_SECTION:tables-->
-
-|                      Jokes                       |                      Memes                      |
-| :----------------------------------------------: | :---------------------------------------------: |
-| Why are Assembly programmers always soaking wet? | <img src="https://i.redd.it/gbt8odfx0au81.jpg"> |
-|             They work below C-level.             |                   Some Title                    |
-
+| Quotes | Jokes | Memes | 
+| :-----: | :-----: | :-----: |
+| Wherever a man may happen to turn, whatever a man may undertake, he will always end up by returning to the path which nature has marked out for him. | Why was the JavaScript developer sad?| Something tells me this may lead to users tensing up harder |
+| Johann Wolfgang von Goethe | Because they didn't Node how to Express themself!| <img src="https://i.redd.it/xqgprhv3v9u81.jpg"/> |
 <!--END_SECTION:tables-->
 
 ## Technologies & Tools
