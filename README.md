@@ -15,9 +15,9 @@
 
 <!--START_SECTION:tables-->
 | Quotes | Jokes | Memes | 
-| :-----: | :-----: | :-----: |
-| Follow effective action with quiet reflection. From the quiet reflection will come even more effective action. | Hey, wanna hear a joke?| <img src="https://i.redd.it/o81upuulkfu81.jpg"/> |
-| Peter Drucker | Parsing HTML with regex.| The start of the harrowing, occasionally rewarding, never-ending journey |
+| :-----: | :-----: |
+| Work while you have the light. You are responsible for the talent that has been entrusted to you. | Hey baby I wish your name was asynchronous...|
+| Henri-Frédéric Amiel | ... so you'd give me a callback.|
 <!--END_SECTION:tables-->
 
 ## Technologies & Tools
