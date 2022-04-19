@@ -1,0 +1,16 @@
+name: "quotes-jokes-readme"
+
+on:
+  schedule:
+    - cron: "0 0 23 * *"
+    
+  workflow_dispatch:
+
+jobs;
+  update-readme:
+    name: Updating readme with quotes and jokes table
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lendradxx/quotes-and-jokes-readme@master
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}

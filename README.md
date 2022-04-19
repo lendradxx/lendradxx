@@ -13,14 +13,13 @@
 - 🎯 Life goals: be a successful person
 - 🌱 I'm currently learning C, GTK, and CMake
 
+<!--START_SECTON:jokes-quotes-->
+<!--END_SECTON:jokes-quotes-->
+
 ## Technologies & Tools
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch-1793D1?logo=arch-linux&logoColor=fff&style=flat)
-
-## Quotes
-
-![Quotes](https://github-readme-quotes.herokuapp.com/quote?theme=dark&layout=zues)
 
 ## Friends
 
