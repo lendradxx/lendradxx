@@ -13,8 +13,8 @@
 - 🎯 Life goals: be a successful person
 - 🌱 I'm currently learning C, GTK, and CMake
 
-<!--START_SECTON:jokesquotes-->
-<!--END_SECTON:jokesquotes-->
+<!--START_SECTION:tables-->
+<!--END_SECTION:tables-->
 
 ## Technologies & Tools
 
