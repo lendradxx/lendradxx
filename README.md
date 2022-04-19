@@ -14,12 +14,10 @@
 - 🌱 I'm currently learning C, GTK, and CMake
 
 <!--START_SECTION:tables-->
-
-|               Quotes               |          Jokes           |                      Memes                       |
-| :--------------------------------: | :----------------------: | :----------------------------------------------: |
-| Constant kindness can accomplish . |     Why are Assembly     | <img src="https://i.redd.it/gbt8odfx0au81.jpg" > |
-|         Albert Schweitzer          | They work below C-level. |                     Example                      |
-
+| Quotes | Jokes | Memes |
+| :-----: | :-----: | :----: |
+| Constant kindness can accomplish much. As the sun makes ice melt, kindness causes misunderstanding, mistrust, and hostility to evaporate. | Why are Assembly programmers always soaking wet?| <img src="https://i.redd.it/gbt8odfx0au81.jpg"> | 
+| Albert Schweitzer | They work below C-level.| Some Title | 
 <!--END_SECTION:tables-->
 
 ## Technologies & Tools
