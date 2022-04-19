@@ -16,7 +16,7 @@
 <!--START_SECTION:tables-->
 | Quotes | Jokes | Memes |
 | :-----: | :-----: | :----: |
-| Constant kindness can accomplish much. As the sun makes ice melt, kindness causes misunderstanding, mistrust, and hostility to evaporate. | Why are Assembly programmers always soaking wet?| <img src="https://i.redd.it/gbt8odfx0au81.jpg" height="380px"> | 
+| Constant kindness can accomplish much. As the sun makes ice melt, kindness causes misunderstanding, mistrust, and hostility to evaporate. | Why are Assembly programmers always soaking wet?| <img src="https://i.redd.it/gbt8odfx0au81.jpg" width="320px"> | 
 | Albert Schweitzer | They work below C-level.| Some Title | 
 <!--END_SECTION:tables-->
 
