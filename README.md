@@ -16,8 +16,8 @@
 <!--START_SECTION:tables-->
 | Quotes | Jokes |
 | :-----: | :-----: |
-| Anybody can make history. Only a great man can write it. | How do you generate a random string?|
-| Oscar Wilde | Put a Windows user in front of Vim and tell them to exit.|
+| Setting goals is the first step in turning the invisible into the visible. | What are bits?|
+| Tony Robbins | Tiny things left when you drop your computer down the stairs.|
 <!--END_SECTION:tables-->
 
 ## Technologies & Tools
