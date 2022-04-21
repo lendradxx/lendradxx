@@ -16,8 +16,8 @@
 <!--START_SECTION:tables-->
 | Quotes | Jokes |
 | :-----: | :-----: |
-| Setting goals is the first step in turning the invisible into the visible. | What are bits?|
-| Tony Robbins | Tiny things left when you drop your computer down the stairs.|
+| Science gives us knowledge, but only philosophy can give us wisdom. | How did the programmer die in the shower?|
+| Will Durant | He read the shampoo bottle instructions: Lather. Rinse. Repeat.|
 <!--END_SECTION:tables-->
 
 ## Technologies & Tools
