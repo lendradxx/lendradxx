@@ -16,8 +16,8 @@
 <!--START_SECTION:tables-->
 | Quotes | Jokes |
 | :-----: | :-----: |
-| Science gives us knowledge, but only philosophy can give us wisdom. | How did the programmer die in the shower?|
-| Will Durant | He read the shampoo bottle instructions: Lather. Rinse. Repeat.|
+| It seemed the world was divided into good and bad people. The good ones slept better... while the bad ones seemed to enjoy the waking hours much more. | What do you call a group of 8 Hobbits?|
+| Woody Allen | A Hobbyte.|
 <!--END_SECTION:tables-->
 
 ## Technologies & Tools
