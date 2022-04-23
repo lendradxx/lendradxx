@@ -16,8 +16,8 @@
 <!--START_SECTION:tables-->
 | Quotes | Jokes |
 | :-----: | :-----: |
-| It seemed the world was divided into good and bad people. The good ones slept better... while the bad ones seemed to enjoy the waking hours much more. | What do you call a group of 8 Hobbits?|
-| Woody Allen | A Hobbyte.|
+| From wonder into wonder existence opens. | Hey, wanna hear a joke?|
+| Laozi | Parsing HTML with regex.|
 <!--END_SECTION:tables-->
 
 ## Technologies & Tools
