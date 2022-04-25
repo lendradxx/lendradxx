@@ -16,8 +16,8 @@
 <!--START_SECTION:tables-->
 | Quotes | Jokes |
 | :-----: | :-----: |
-| The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers. You can do anything you decide to do. You can act to change and control your life; and the procedure, the process is its own reward. | why do python programmers wear glasses?|
-| Amelia Earhart | Because they can't C.|
+| The more sand that has escaped from the hourglass of our life, the clearer we should see through it. | Why do programmers wear glasses?|
+| Jean-Paul Sartre | Because they need to C#|
 <!--END_SECTION:tables-->
 
 ## Technologies & Tools
