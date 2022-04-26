@@ -16,8 +16,8 @@
 <!--START_SECTION:tables-->
 | Quotes | Jokes |
 | :-----: | :-----: |
-| The more sand that has escaped from the hourglass of our life, the clearer we should see through it. | Why do programmers wear glasses?|
-| Jean-Paul Sartre | Because they need to C#|
+| I am like a falling star who has finally found her place next to another in a lovely constellation, where we will sparkle in the heavens forever. | How do you generate a random string?|
+| Amy Tan | Put a Windows user in front of Vim and tell them to exit.|
 <!--END_SECTION:tables-->
 
 ## Technologies & Tools
