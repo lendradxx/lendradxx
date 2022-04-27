@@ -16,8 +16,8 @@
 <!--START_SECTION:tables-->
 | Quotes | Jokes |
 | :-----: | :-----: |
-| I am like a falling star who has finally found her place next to another in a lovely constellation, where we will sparkle in the heavens forever. | How do you generate a random string?|
-| Amy Tan | Put a Windows user in front of Vim and tell them to exit.|
+| Let the beauty of what you love be what you do. | Why do programmers confuse Halloween and Christmas?|
+| Rumi | Because Oct 31 = Dec 25|
 <!--END_SECTION:tables-->
 
 ## Technologies & Tools
