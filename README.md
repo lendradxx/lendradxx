@@ -16,8 +16,8 @@
 <!--START_SECTION:tables-->
 | Quotes | Jokes |
 | :-----: | :-----: |
-| Let the beauty of what you love be what you do. | Why do programmers confuse Halloween and Christmas?|
-| Rumi | Because Oct 31 = Dec 25|
+| I have not failed. I've just found 10,000 ways that won't work. | What are bits?|
+| Thomas Edison | Tiny things left when you drop your computer down the stairs.|
 <!--END_SECTION:tables-->
 
 ## Technologies & Tools
