@@ -16,8 +16,8 @@
 <!--START_SECTION:tables-->
 | Quotes | Jokes |
 | :-----: | :-----: |
-| I have not failed. I've just found 10,000 ways that won't work. | What are bits?|
-| Thomas Edison | Tiny things left when you drop your computer down the stairs.|
+| Age does not protect you from love. But love, to some extent, protects you from age. | Why did the functional programmer get thrown out of school?|
+| Anaïs Nin | Because he refused to take classes.|
 <!--END_SECTION:tables-->
 
 ## Technologies & Tools
