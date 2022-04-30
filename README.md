@@ -16,8 +16,8 @@
 <!--START_SECTION:tables-->
 | Quotes | Jokes |
 | :-----: | :-----: |
-| Age does not protect you from love. But love, to some extent, protects you from age. | Why did the functional programmer get thrown out of school?|
-| Anaïs Nin | Because he refused to take classes.|
+| Every friendship goes through ups and downs. Dysfunctional patterns set in; external situations cause internal friction; you grow apart and then bounce back together. | Why did the programmer jump on the table?|
+| Mariella Frostrup | Because debug was on his screen.|
 <!--END_SECTION:tables-->
 
 ## Technologies & Tools
