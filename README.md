@@ -16,8 +16,8 @@
 <!--START_SECTION:tables-->
 | Quotes | Jokes |
 | :-----: | :-----: |
-| Every friendship goes through ups and downs. Dysfunctional patterns set in; external situations cause internal friction; you grow apart and then bounce back together. | Why did the programmer jump on the table?|
-| Mariella Frostrup | Because debug was on his screen.|
+| People usually compare the computer to the head of the human being. I would say that hardware is the bone of the head, the skull. The semiconductor is the brain within the head. The software is the wisdom. And data is the knowledge. | Why do programmers prefer using the dark mode?|
+| Masayoshi Son | Because light attracts bugs.|
 <!--END_SECTION:tables-->
 
 ## Technologies & Tools
