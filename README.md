@@ -16,8 +16,8 @@
 <!--START_SECTION:tables-->
 | Quotes | Jokes |
 | :-----: | :-----: |
-| People usually compare the computer to the head of the human being. I would say that hardware is the bone of the head, the skull. The semiconductor is the brain within the head. The software is the wisdom. And data is the knowledge. | Why do programmers prefer using the dark mode?|
-| Masayoshi Son | Because light attracts bugs.|
+| In seed time learn, in harvest teach, in winter enjoy. | Why did the programmer quit his job?|
+| William Blake | Because he didn't get arrays.|
 <!--END_SECTION:tables-->
 
 ## Technologies & Tools
