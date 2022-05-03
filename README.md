@@ -25,7 +25,7 @@
 ![Arch](https://img.shields.io/badge/OS-Arch-1793D1?logo=windows&style=flat)
 ![Windows](https://img.shields.io/badge/OS-Windows-0078D6?logo=windows&style=flat)
 
-## Friends
+## 👥 Friends
 
 | <img src="https://github.com/siegrin.png" height="80px"> | <img src="https://github.com/itsmedell.png" height="80px"> |
 | :------------------------------------------------------: | :--------------------------------------------------------: |
