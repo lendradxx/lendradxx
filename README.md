@@ -20,11 +20,12 @@
 | Mother Teresa | Make one mistake and you end up supporting it for the rest of your life.|
 <!--END_SECTION:tables-->
 
-## Technologies & Tools
+## 💻 Technologies
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Arch](https://img.shields.io/badge/Arch-1793D1?logo=arch-linux&logoColor=fff&style=flat)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Arch](https://img.shields.io/badge/OS-Arch-1793D1?logo=windows&style=for-the-badge)
+![Windows](https://img.shields.io/badge/OS-Windows-0078D6?logo=windows&style=for-the-badge)
+
+##  Test
 
 ## Friends
 
