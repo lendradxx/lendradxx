@@ -13,13 +13,6 @@
 - 🎯 Life goals: be a successful person
 - 🌱 I'm currently learning C, SDL, and CMake
 
-<!--START_SECTION:tables-->
-| Quotes | Jokes |
-| :-----: | :-----: |
-| We shall never know all the good that a simple smile can do. | Programming is like sex.|
-| Mother Teresa | Make one mistake and you end up supporting it for the rest of your life.|
-<!--END_SECTION:tables-->
-
 ## 💻 Technologies
 
 ![Arch](https://img.shields.io/badge/OS-Arch-1793D1?logo=windows&style=flat)
