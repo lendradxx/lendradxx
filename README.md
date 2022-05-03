@@ -22,10 +22,8 @@
 
 ## 💻 Technologies
 
-![Arch](https://img.shields.io/badge/OS-Arch-1793D1?logo=windows&style=for-the-badge)
-![Windows](https://img.shields.io/badge/OS-Windows-0078D6?logo=windows&style=for-the-badge)
-
-##  Test
+![Arch](https://img.shields.io/badge/OS-Arch-1793D1?logo=windows&style=flat)
+![Windows](https://img.shields.io/badge/OS-Windows-0078D6?logo=windows&style=flat)
 
 ## Friends
 
