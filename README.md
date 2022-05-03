@@ -16,8 +16,8 @@
 <!--START_SECTION:tables-->
 | Quotes | Jokes |
 | :-----: | :-----: |
-| In seed time learn, in harvest teach, in winter enjoy. | Why did the programmer quit his job?|
-| William Blake | Because he didn't get arrays.|
+| We shall never know all the good that a simple smile can do. | Programming is like sex.|
+| Mother Teresa | Make one mistake and you end up supporting it for the rest of your life.|
 <!--END_SECTION:tables-->
 
 ## Technologies & Tools
