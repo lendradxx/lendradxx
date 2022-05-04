@@ -15,7 +15,7 @@
 
 ## 💻 Technologies
 
-![Arch](https://img.shields.io/badge/OS-Arch-1793D1?logo=windows&style=flat)
+![Arch](https://img.shields.io/badge/OS-Arch-1793D1?logo=archlinux&style=flat&logoColor=white)
 ![Windows](https://img.shields.io/badge/OS-Windows-0078D6?logo=windows&style=flat)
 
 ## 👥 Friends
