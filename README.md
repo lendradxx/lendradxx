@@ -11,7 +11,6 @@
 - 🔭 I'm currently working on MySelf
 - 🤔 I’m looking for help with idea
 - 🎯 Life goals: be a successful person
-- 🌱 I'm currently learning Express and React
 
 ## 💻 Technologies
 
